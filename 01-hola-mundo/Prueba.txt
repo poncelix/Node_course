@@ -1,1 +1,3 @@
 prueba - sube la carpeta cuando tiene un archivo
+
+manejo local git-
